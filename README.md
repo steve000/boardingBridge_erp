@@ -1,4 +1,4 @@
-# boardingbridge
+# boardingbridge_erp
 
 ## Project setup
 ```
@@ -24,3 +24,7 @@ npm run test
 ```
 npm run lint
 ```
+
+### 替换public中的文件即可
+
+### pm2 start server.js     pm2 stop all   
