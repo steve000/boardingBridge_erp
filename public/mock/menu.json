@@ -1,0 +1,90 @@
+{
+  "error_no": "0",
+  "error_info": "成功",
+  "data": [
+    {
+      "menu_caption": "fa fa-plane",
+      "url_address": "dynamic",
+      "menu_name": "航班动态",
+      "menu_id": "001000",
+      "isLink": true
+    },
+    {
+      "menu_caption": "el-icon-s-operation",
+      "url_address": "dispatch",
+      "menu_name": "航班调度",
+      "menu_id": "002000",
+      "isLink": true
+    },
+    {
+      "menu_caption": "el-icon-date",
+      "url_address": "scheduling",
+      "menu_name": "操作员排班",
+      "menu_id": "003000",
+      "isLink": true
+    },
+    {
+      "menu_caption": "el-icon-s-data",
+      "url_address": "dataCheck",
+      "menu_name": "收费数据审核",
+      "menu_id": "004000",
+      "isLink": false
+    },
+    {
+      "menu_caption": "",
+      "url_address": "boarding",
+      "menu_name": "登机桥",
+      "menu_id": "004001",
+      "isLink": true
+    },
+    {
+      "menu_caption": "",
+      "url_address": "power",
+      "menu_name": "400HZ电源",
+      "menu_id": "004002",
+      "isLink": true
+    },
+    {
+      "menu_caption": "",
+      "url_address": "conditioner",
+      "menu_name": "飞机地面空调",
+      "menu_id": "004003",
+      "isLink": true
+    },
+    {
+      "menu_caption": "el-icon-receiving",
+      "url_address": "equipment",
+      "menu_name": "设备管理",
+      "menu_id": "005000",
+      "isLink": true
+    },
+    {
+      "menu_caption": "el-icon-mobile-phone",
+      "url_address": "mobileDevices",
+      "menu_name": "移动设备管理",
+      "menu_id": "006000",
+      "isLink": true
+    },
+    {
+      "menu_caption": "el-icon-user",
+      "url_address": "user",
+      "menu_name": "用户管理",
+      "menu_id": "007000",
+      "isLink": true
+    },
+    {
+      "menu_caption": "el-icon-key",
+      "url_address": "role",
+      "menu_name": "权限管理",
+      "menu_id": "008000",
+      "isLink": true
+    },
+    {
+      "menu_caption": "el-icon-document",
+      "url_address": "log",
+      "menu_name": "日志管理",
+      "menu_id": "009000",
+      "isLink": true
+    }
+  ]
+}
